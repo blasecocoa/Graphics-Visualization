@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsource_lib.a  CMakeFiles/source_lib.dir/src/Matrix2f.cpp.o CMakeFiles/source_lib.dir/src/Matrix3f.cpp.o CMakeFiles/source_lib.dir/src/Matrix4f.cpp.o CMakeFiles/source_lib.dir/src/Quat4f.cpp.o CMakeFiles/source_lib.dir/src/Vector2f.cpp.o CMakeFiles/source_lib.dir/src/Vector3f.cpp.o CMakeFiles/source_lib.dir/src/Vector4f.cpp.o CMakeFiles/source_lib.dir/src/main.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsource_lib.a
